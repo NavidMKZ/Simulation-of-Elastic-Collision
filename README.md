@@ -22,4 +22,4 @@ VPython library for 3D visualization
 The impact parameter can be chosen between -3 and 3.
 
 ## Author
-### Navid Markazi & Ali kashkouli,Isfahan University of Technology, January 2021
+### Navid Markazi & Ali kashkouli, Isfahan University of Technology, January 2021
